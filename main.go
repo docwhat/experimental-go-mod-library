@@ -4,4 +4,4 @@ package experimental
 const Name = "Experimental go.mod library"
 
 // Version is the version of the library.
-const Version = "1.0.0"
+const Version = "1.0.1"
